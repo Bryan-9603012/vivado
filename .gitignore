@@ -1,0 +1,22 @@
+# Vivado generated directories
+**/*.cache/
+**/*.hw/
+**/*.ip_user_files/
+**/*.runs/
+**/*.sim/
+**/.Xil/
+
+# Vivado logs / temp files
+*.jou
+*.log
+*.str
+
+# Generated outputs
+*.bit
+*.bin
+*.ltx
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
